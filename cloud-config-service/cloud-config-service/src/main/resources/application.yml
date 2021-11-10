@@ -1,0 +1,14 @@
+server:
+ port: 9192
+
+spring:
+ application:
+  name: CONFIG-SERVER
+ profile:
+  active: native
+
+
+
+
+
+      
